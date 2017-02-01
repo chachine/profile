@@ -1,0 +1,114 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+/* Colors and Fonts */
+
+body{
+  background: #4D606E;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:  #4D606E;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3{
+  font-family: 'Raleway', sans-serif;
+}
+
+h1{
+  color: #3FBAC2;
+  font-size: 22px;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+a{
+  color: #373737;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #3FBAC2;
+  text-decoration: none;
+}
+
+table{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+  padding: 6px;
+}
+
+.btn-blue:hover {
+    background-color: #3FBAC2;
+    color: white;
+}
+
+.btn-blue {
+    background-color: #3FBAC2;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#movies {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+#movies h3 {
+  font-size: 24px;
+  font-weight 500;
+}
+#movies img {
+    width: 100px;
+}
+
+#movies td {
+    padding: 10px;
+}
+
+#img-profile {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #3FBAC2;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.container {
+  width: 500px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.card {
+    background: #D3D4D8;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.list-inline {
+    padding-left: 0;
+}
